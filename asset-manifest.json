@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/css/main.c8d0a532.chunk.css",
+    "main.js": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/main.cb6b619f.chunk.js",
+    "main.js.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/main.cb6b619f.chunk.js.map",
+    "runtime-main.js": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/runtime-main.ecc75852.js",
+    "runtime-main.js.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/runtime-main.ecc75852.js.map",
+    "static/css/2.530bd29d.chunk.css": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/css/2.530bd29d.chunk.css",
+    "static/js/2.a3100a2b.chunk.js": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/2.a3100a2b.chunk.js",
+    "static/js/2.a3100a2b.chunk.js.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/2.a3100a2b.chunk.js.map",
+    "static/js/3.bb16ae9f.chunk.js": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/3.bb16ae9f.chunk.js",
+    "static/js/3.bb16ae9f.chunk.js.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/3.bb16ae9f.chunk.js.map",
+    "index.html": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/index.html",
+    "static/css/2.530bd29d.chunk.css.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/css/2.530bd29d.chunk.css.map",
+    "static/css/main.c8d0a532.chunk.css.map": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/css/main.c8d0a532.chunk.css.map",
+    "static/js/2.a3100a2b.chunk.js.LICENSE.txt": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/js/2.a3100a2b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/AlokSharmaGitHub/AssignmentDemo.git/assignment/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecc75852.js",
+    "static/css/2.530bd29d.chunk.css",
+    "static/js/2.a3100a2b.chunk.js",
+    "static/css/main.c8d0a532.chunk.css",
+    "static/js/main.cb6b619f.chunk.js"
+  ]
+}
