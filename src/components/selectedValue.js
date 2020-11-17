@@ -27,8 +27,8 @@ class SelectedValue extends React.Component {
       this.timerId = setInterval(()=>{
         return this.setState((state, props)=>{
          return {
-           second:this.state.second==59?0:this.state.second+this.state.timeInterval,
-           minute:this.state.second==59?this.state.minute+1:this.state.minute,
+           second:this.state.second < 0?this.handleStopClick():this.state.second>58?0:this.state.second+this.state.timeInterval,
+           minute:this.state.second>58?this.state.minute+1:this.state.minute,
            hour:this.state.minute==59?this.state.hour+1:this.state.hour
          }
         })
@@ -44,11 +44,17 @@ class SelectedValue extends React.Component {
   }
 
   handleDecrementClick = () =>{
+    debugger;
+    if(this.state.timeInterval > -10){
    this.setState({timeInterval:this.state.timeInterval - 1})
+    }
   }
 
   handleIncrementClick = () =>{
+    debugger;
+    if(this.state.timeInterval < 10){
     this.setState({timeInterval:this.state.timeInterval + 1})
+    }
   }
  
   render() {
